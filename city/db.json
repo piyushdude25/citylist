@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "country": "India",
+      "city": "Delhi",
+      "population": "19000000"
+    },
+    {
+      "id": 2,
+      "country": "SriLanka",
+      "city": "Colombo",
+      "population": "5600000"
+    },
+    {
+      "id": 3,
+      "country": "USA",
+      "city": "Chicago",
+      "population": "2920000"
+    },
+    {
+      "id": 4,
+      "country": "India",
+      "city": "Nagput",
+      "population": "111000"
+    },
+    {
+      "id": 5,
+      "country": "India",
+      "city": "Haryana",
+      "population": "180000"
+    },
+    {
+      "id": 6,
+      "country": "USA",
+      "city": "Asdf",
+      "population": "123000"
+    }
+  ]
+  
+}
